@@ -12,6 +12,7 @@ In this post, I am going to talk about how and why I map `hjkl` as `arrow` keys.
 
 I started to use Vim last year. I absolutely like model editing and the idea of mouse-less. `hjkl` is the one of the most beautiful thing in Vim. I wanted to take the idea system wise. It turned out better than I thought. Now I it for everything, check out emails in Mail, browse files in Finder, go through lists in Slack, etc. I can't imagine a day without having it. 
 
+![Karabiner key mapping](https://github.com/yifanchen/advanced-keymapping/blob/master/imgs/karabiner1.png) 
 
 BTT is really powerful, the price of it made it even better(free). Now, it is no longer free, however with 3.00 bucks, can't complain if we use it all the time. 
 
