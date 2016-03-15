@@ -13,8 +13,7 @@ I am totally down. In this post, I am not going to show how BTT works, it's very
 
 Between these two tools, I would go with Karabiner over BTT for two reasons:
 
-1. Unlike `arrow` keys, `letter` keys don't repeat themselves when holding down, which make navigating inconvenient, however Karabiner fixes this problem by enabling specific 
-   terminal commands.
+1. Unlike `arrow` keys, `letter` keys don't repeat themselves when holding down in OSX, which could be annoying. Luckily, Karabiner fixes this problem.
 
 2. Free.
 
