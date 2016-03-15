@@ -30,6 +30,8 @@ The screen shot is my setting. You are welcome to play with it, map anyway you l
 
 After you map it the way like I do, the beautiful part happens:
 
+`control` + `h` + `j` + `k` + `l`: `left` `down` `up` `right`.
+
 `control` + `cmd` + `h` or `l`: navigating through beginning and end of a line.
 
 `control` + `cmd` + `shift` + `h` or `l`: select entire line.
@@ -47,11 +49,13 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 # 中文
 
 玩vim有感，觉得hjkl做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置。用多了发现就离不开了。不经意间，
-发现神级快捷键编辑软件karabiner, 功能有点多。
+找到一款神级快捷键编辑器，强大到不行。
 
 如果你也是按我的设置来的话（如图），下面这些快捷会让你幸福很多。
 
-`control` + `cmd` + `h` or `l`: 光标左右移动。
+`control` + `h` + `j` + `k` + `l`: 左，下，上，右。
+
+`control` + `cmd` + `h` or `l`: 到整行的开始或者末尾。
 
 `control` + `cmd` + `shift` + `h` or `l`: 选择整行。
 
