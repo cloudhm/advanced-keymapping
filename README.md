@@ -4,7 +4,7 @@ In order to get most of this post, please read [OSX-shortcuts-you-might-not-know
 
 I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
 
-[Karabiner](https://github.com/tekezo/Karabiner): Arguably the most powerful key mapping tool. I still hate how much options it actually has, I have to go through a long list making sure I don't miss anything. Free makes it even better. I did even send couple emails to the author, and guess what, I got responses back within 8 hours.
+[Karabiner](https://github.com/tekezo/Karabiner): Arguably the most powerful key mapping tool. Free makes it even better. On top of that, it comes with a great customer service(I got responds within 8 hours when I sent emails to ask questions).
 
 [BetterTouchTool](https://www.boastr.net/): BTT is well known, and very intuitively easy to use. It is no longer free, however spending few bucks to have it 24/7. I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
 
