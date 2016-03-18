@@ -13,7 +13,8 @@ I am totally down. In this post, I am not going to show how BTT works, it's very
 
 Between these two tools, I would go with Karabiner over BTT for two reasons:
 
-1. Unlike `arrow` keys, `letter` keys don't repeat themselves when holding down in OSX, which could be annoying. Luckily, Karabiner fixes this problem.
+1. Unlike `arrow` keys, `letter` keys don't repeat themselves when holding down in OSX(Windows does),
+which could be annoying. Luckily, Karabiner fixes this problem.
 
 2. Free.
 
@@ -42,6 +43,12 @@ After you map it the way like I do, the beautiful part happens:
 `control` + `j` and `control` + `k`: going through intellisense or up and down when search in google.
 
 `control` + `l`: very useful to attach parameters to the end of a url.
+
+##### Example of adding a parameter to an url with both hands on row 2 of keyboard.
+
+1. `cmd` + `l` 
+2. `control` + `l`
+3. type the parameter.
 
 Now, you can navigate through lines of code without moving right hand to `arrow` keys.
 
