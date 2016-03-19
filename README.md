@@ -52,6 +52,13 @@ After you map it the way like I do, the beautiful part happens:
 
 Now, you can navigate through lines of code without moving right hand to `arrow` keys.
 
+
+##### What if I already mapped `control` + `hjkl` in Vim?
+
+1. I suggest to disable Karabiner when iTerm is running. Why? Becuase Vim comes with powerful shortcuts, we should learn them.
+
+2. `fn` + `hjkl`
+
 # 中文
 
 玩vim有感，觉得hjkl做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置。用多了发现就离不开了。不经意间，
@@ -71,4 +78,11 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 
 `control` + `j` and `control` + `k`: 这个在百度搜索东西的时候上下选择很有用。
 
-`control` + `l`: 网络地址太长不想打的时候而又需要在末尾加的东西的时候很管用。
+`control` + `l`: 网址地址太长不想打而又需要在末尾加参数的时候用最合适不过了。
+
+##### 实例演示，如何快速地在网址末尾加参数
+
+1. `cmd` + `l` 
+2. `control` + `l`
+3. 打入参数
+
