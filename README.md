@@ -78,7 +78,7 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 
 `control` + `j` and `control` + `k`: 这个在百度搜索东西的时候上下选择很有用。
 
-`control` + `l`: 网址地址太长不想打而又需要在末尾加参数的时候用最合适不过了。
+`control` + `l`: 这个在网址地址太长不想打而又需要在末尾加参数的时候用最合适不过了。
 
 ##### 实例演示，如何快速地在网址末尾加参数
 
