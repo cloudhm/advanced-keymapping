@@ -5,7 +5,8 @@ In order to get most of this post, please read [OSX-shortcuts-you-might-not-know
 I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
 
 [Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings, they come in options,
-just check the boxes of the ones you like. Still unsatisfied? Then make your own `private.xml` and import it in. Yes, it is just this amazing. On top of that, 
+just check the boxes of the ones you like. Honestly, I drop my jaw every time I go through the option list, there are too much options.
+Still unsatisfied? Then make your own `private.xml` and import it in. Yes, it is just this amazing. On top of that, 
 it comes with a great customer service.(I got responds within 8 hours when I sent emails to ask questions) Most importantly, it is free.
 
 [BetterTouchTool](https://www.boastr.net/): BTT is well known, and very intuitively easy to use. It is no longer free, however spending few bucks to have it 24/7.
@@ -58,6 +59,16 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 1. I suggest to disable Karabiner when iTerm is running. Why? Becuase Vim comes with powerful shortcuts, we should learn them.
 
 2. `fn` + `hjkl`
+
+
+##### Map `caps lock` to `control` smartly
+
+Instead of mapping `caps lock` to `control` permanently, why don't just map it only when `caps lock` is holding down with other keys.
+Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
+
+### Conclusion 
+
+This post is meant to share my shortcuts, I am sure there are far more than I know. With good softwares, be creative with your own mappings.
 
 # 中文
 
