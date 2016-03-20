@@ -57,7 +57,6 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 ##### What if I already mapped `control` + `hjkl` in Vim?
 
 1. I suggest to disable Karabiner when iTerm is running. Why? Becuase Vim comes with powerful shortcuts, we should learn them.
-
 2. `fn` + `hjkl`
 
 
