@@ -68,7 +68,8 @@ Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
 
 ### Conclusion 
 
-This post is meant to share my shortcuts, I am sure there are far more than I know. With good softwares, be creative with your own mappings.
+This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
+With good softwares, be creative with your own mappings.
 
 # 中文
 
