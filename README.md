@@ -41,7 +41,7 @@ After you map it the way like I do, the beautiful part happens:
 
 `control` + `cmd` + `shift` + `k` or `j`: select entire file from either top or bottom.
 
-`control` + `j` and `control` + `k`: going through intellisense or up and down when search in google.
+`control` + `j` and `control` + `k`: going through intellisense in IDE or up and down when search in google.
 
 `control` + `l`: very useful to attach parameters to the end of a url.
 
@@ -72,8 +72,10 @@ With good softwares, be creative with your own mappings.
 
 # 中文
 
-玩vim有感，觉得hjkl做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置。用多了发现就离不开了。不经意间，
+玩vim有感，觉得`hjkl`做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置。用多了发现就离不开了。不经意间，
 找到一款神级快捷键编辑器，强大到不行。
+
+[Karabiner](https://pqrs.org/osx/karabiner/): 无意间发现地强到不行的键盘软件，而且免费。
 
 如果你也喜欢快捷键，并且是按我的设置来的话（如图），下面这些快捷键组合会让你幸福感暴增。
 
