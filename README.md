@@ -72,10 +72,12 @@ With good softwares, be creative with your own mappings.
 
 # 中文
 
-玩vim有感，觉得`hjkl`做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置。用多了发现就离不开了。不经意间，
-找到一款神级快捷键编辑器，强大到不行。
+玩vim有感，觉得`hjkl`做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置，这可是很多程序员的梦想。用多了发现就离不开了。
 
 [Karabiner](https://pqrs.org/osx/karabiner/): 无意间发现地强到不行的键盘软件，而且免费。
+
+[BetterTouchTool](https://www.boastr.net/): BTT is well known, and very intuitively easy to use. It is no longer free, however spending few bucks to have it 24/7.
+I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
 
 如果你也喜欢快捷键，并且是按我的设置来的话（如图），下面这些快捷键组合会让你幸福感暴增。
 
