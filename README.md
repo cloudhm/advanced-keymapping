@@ -74,7 +74,7 @@ With good softwares, be creative with your own mappings.
 
 玩vim有感，觉得`hjkl`做为方向键再合适不过了。试想一下，打字的时候，光标可以左右切换并且手指不需要离开键盘的黄金位置，这可是很多程序员的梦想。用多了发现就离不开了。
 
-[Karabiner](https://pqrs.org/osx/karabiner/): 这个软件非常非常强大，并且很好用，只要选择里面的选项就可以了。
+[Karabiner](https://pqrs.org/osx/karabiner/): 这个软件非常非常强大，功能很多，而且免费。
 
 如果你也喜欢快捷键，并且是按我的设置来的话（如图），下面这些快捷键组合会让你幸福感暴增。
 
