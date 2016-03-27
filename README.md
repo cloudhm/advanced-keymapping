@@ -98,3 +98,18 @@ With good softwares, be creative with your own mappings.
 2. `control` + `l`
 3. 打入参数
 
+##### What if I already mapped `control` + `hjkl` in Vim?
+
+1. I suggest to disable Karabiner when iTerm is running. Why? Becuase Vim comes with powerful shortcuts, we should learn them.
+2. `fn` + `hjkl`
+
+
+##### Map `caps lock` to `control` smartly
+
+Instead of mapping `caps lock` to `control` permanently, why don't just map it only when `caps lock` is holding down with other keys.
+Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
+
+### Conclusion 
+
+This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
+With good softwares, be creative with your own mappings.
