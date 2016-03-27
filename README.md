@@ -76,7 +76,7 @@ With good softwares, be creative with your own mappings.
 玩vim有感，觉得`hjkl`做为方向键再合适不过了。编辑的时候，光标可以左右移动，无论是拷贝复制，还是整段的代码选择，都会方便非常多。试过之后，是如此好用。
 这里简单介绍两个快捷键编辑器：
 
-[Karabiner](https://pqrs.org/osx/karabiner/): 也许是市面上能找到的最强大的编辑器，没有之一。功能多的让人头痛。最厉害的是什么都帮你想好了，只需要选择喜欢的选项就可以。
+[Karabiner](https://pqrs.org/osx/karabiner/): 是可以找到的最强大的编辑器，没有之一。功能多的让人头痛。最厉害的是什么都帮你想好了，只需要选择喜欢的选项就可以。
 
 [BetterTouchTool](https://www.boastr.net/): BTT 也是个非常出色的软件，简单易用。
 
