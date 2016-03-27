@@ -78,7 +78,7 @@ With good softwares, be creative with your own mappings.
 
 [Karabiner](https://pqrs.org/osx/karabiner/): 也许是市面上能找到的最强大的编辑器，没有之一。功能多的让人头痛。最厉害的是什么都帮你想好了，只需要选择喜欢的选项就可以。
 
-[BetterTouchTool](https://www.boastr.net/):
+[BetterTouchTool](https://www.boastr.net/): BTT 也是个非常出色的软件，简单易用，模仿windows的全屏方式让更多人喜欢。
 
 如果你也喜欢快捷键，并且是按我的设置来的话（如图），下面这些快捷键组合会让你幸福感暴增。
 
