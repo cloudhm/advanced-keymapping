@@ -5,11 +5,11 @@ In order to get most of this post, please read [OSX-shortcuts-you-might-not-know
 I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
 
 [Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings, they come in options,
-just check the boxes of the ones you like. Honestly, I drop my jaw every time I go through the option list, there are too much options.
+just check the boxes of the ones you like. Honestly, I drop my jaw every time I browse through the option list, there are too much options even including Dota2, LOL, Starcraft, etc.
 Still unsatisfied? Then make your own `private.xml` and import it in. Yes, it is just this amazing. On top of that, 
 it comes with a great customer service.(I got responds within 8 hours when I sent emails to ask questions) Most importantly, it is free.
 
-[BetterTouchTool](https://www.boastr.net/): BTT is well known, and very intuitively easy to use. It is no longer free, however spending few bucks to have it 24/7.
+[BetterTouchTool](https://www.boastr.net/): BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
 I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
 
 Between these two tools, I would go with Karabiner over BTT for two reasons:
