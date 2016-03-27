@@ -73,12 +73,12 @@ With good softwares, be creative with your own mappings.
 # 中文
 
 可能是原来玩魔兽的原因，一直喜欢玩快捷键，能用快捷键的地方尽量不用鼠标点击。现在所有工作一个MacBook Pro来完成，不需要任何外接显示器。熟知快捷键工作效率高，同时乐趣也多。
-玩vim有感，觉得`hjkl`做为方向键再合适不过了。编辑的时候，光标可以左右移动，无论是拷贝复制，还是整段的代码选择，都会方便非常多。
+玩vim有感，觉得`hjkl`做为方向键再合适不过了。编辑的时候，光标可以左右移动，无论是拷贝复制，还是整段的代码选择，都会方便非常多。试过之后，是如此好用。
 这里简单介绍两个快捷键编辑器：
 
 [Karabiner](https://pqrs.org/osx/karabiner/): 也许是市面上能找到的最强大的编辑器，没有之一。功能多的让人头痛。最厉害的是什么都帮你想好了，只需要选择喜欢的选项就可以。
 
-[BetterTouchTool](https://www.boastr.net/): BTT 也是个非常出色的软件，简单易用，模仿windows的全屏方式让更多人喜欢。
+[BetterTouchTool](https://www.boastr.net/): BTT 也是个非常出色的软件，简单易用。
 
 如果你也喜欢快捷键，并且是按我的设置来的话（如图），下面这些快捷键组合会让你幸福感暴增。
 
@@ -98,22 +98,19 @@ With good softwares, be creative with your own mappings.
 
 ##### 实例演示，如何快速地在网址末尾加参数
 
-1. `cmd` + `l` 
-2. `control` + `l`
-3. 打入参数
+1. 打开浏览器
+2. `cmd` + `l` 
+3. 打入地址，如果地址很长，会自动选择。
+4. `control` + `l`
+5. 打入参数
 
-##### What if I already mapped `control` + `hjkl` in Vim?
+整个过程手不需要离开键盘的黄金位置。
 
-1. I suggest to disable Karabiner when iTerm is running. Why? Becuase Vim comes with powerful shortcuts, we should learn them.
+##### 如果在vim里面我已经设置了'control' + `hjkl` 怎么办？
+
+1. 我建议disable karabiner用vim的时候，为什么？很简单，vim的快捷键很强大，必须去发觉。
 2. `fn` + `hjkl`
 
+### 总结
 
-##### Map `caps lock` to `control` smartly
-
-Instead of mapping `caps lock` to `control` permanently, why don't just map it only when `caps lock` is holding down with other keys.
-Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
-
-### Conclusion 
-
-This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
-With good softwares, be creative with your own mappings.
+最后，这个post的目的是分享快捷键的小技巧，当然你可以按自己的方式来。
