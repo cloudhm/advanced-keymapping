@@ -1,25 +1,15 @@
 # advanced-keymapping
 
-In order to get most of this post, please read [OSX-shortcuts-you-might-not-know](https://github.com/yifanchen/OSX-shortcuts-you-might-not-know) first.
+In order to get most of this post, please read [OSX-shortcuts-you-might-not-know](https://github.com/yifanchen/OSX-shortcuts-you-might-not-know) first. I suggest karabiner to everyone no matter if you are a Emacs user or a Vim user,
 
-In this Repo, I want to share my personal keymapping with everyone.
+### Chrome C-Vim
 
-I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools.
+<a href="https://github.com/1995eaton/chromium-vim" target="_blank">C-Vim</a> is a must have if you use Vim, it comes with tons features to reinforce the golden keyboard rules.
 
 [Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings, they come in options,
 just check the boxes of the ones you like. Honestly, I drop my jaw every time I browse through the option list, there are too much options even including Dota2, LOL, Starcraft, etc.
 Still unsatisfied? Then make your own `private.xml` and import it in. Yes, it is just this amazing. On top of that,
 it comes with a great customer service.(I got responds within 8 hours when I sent emails to ask questions) Most importantly, it is free.
-
-[BetterTouchTool](https://www.boastr.net/): BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
-I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
-
-Between these two tools, I would go with Karabiner over BTT for two reasons:
-
-1. Unlike `arrow` keys, `letter` keys don't repeat themselves when holding down in OSX(Windows does),
-which could be annoying. Luckily, Karabiner fixes this problem.
-
-2. Free.
 
 ### About HJKL
 
