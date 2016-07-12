@@ -1,6 +1,6 @@
 # Advanced Keymapping
 
-123This post collects good tools to help you take keybindings to the next level. In order to get most of this post, please read my <a href="https://github.com/yifanchen/macOS-shortcuts-collection>" target="_blank">macOS shortcuts collection</a> first.
+This post collects good tools to help you take keybindings to the next level. In order to get most of this post, please raed <a href="https://github.com/yifanchen/macOS-shortcuts-collection">Shortcuts Collection</a> first.
 
 ### Chrome C-Vim
 
