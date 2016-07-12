@@ -1,18 +1,18 @@
 # Advanced Keymapping
 
-This post collects good tools to help you take keybindings to the next level. In order to get most of this post, please raed <a href="https://github.com/yifanchen/macOS-shortcuts-collection">Shortcuts Collection</a> first.
+This post collects useful tools to help you take keybindings to the next level. In order to get most of this post, please read <a href="https://github.com/yifanchen/macOS-shortcuts-collection">Shortcuts Collection</a> first.
 
 ### Chrome C-Vim
 
-A good Vim Emulator for your browser. <a href="https://github.com/1995eaton/chromium-vim" target="_blank">C-Vim</a> is a must have if you use Vim, it comes with tons keybindings to reinforce the keyboard golden rule to keep your hands just on the home row of keyboards. Ambitiously, you can make your own `.cvimrc` for C-Vim.
+An excellent Vim Emulator for your browser. <a href="https://github.com/1995eaton/chromium-vim" target="_blank">C-Vim</a> is a must have if you use Vim, it comes with tons keybindings to reinforce the keyboard golden rule to keep your hands just on the home row of keyboards. Ambitiously, you can make your own `.cvimrc` for C-Vim.
 
 ### Karabiner
 
-A dream tool for keymapping. <a href="https://pqrs.org/osx/karabiner" target="_blank">Karabiner</a> is the most powerful key mapping tool on this planet. It's capable of doing all sorts of crazy key mappings. It doesn't matter if you use Vim or Emacs, the options are there, preset ready for you.
+A dream tool for keymapping. <a href="https://pqrs.org/osx/karabiner" target="_blank">Karabiner</a> is the most powerful key mapping tool on this planet. It's capable of doing all sorts of crazy key mappings. It doesn't matter if you use Vim or Emacs, the options are there, ready for you.
 
 #### Mapping `hjkl` with `control` as `arrow` keys
 
-I started to use Vim last year. I absolutely like model editing and the idea of mouse-less. `hjkl` is one of the most beautiful inventions in Vim.
+I started to use Vim last year. I like model editing and the idea of mouse-less. `hjkl` is one of the most beautiful inventions in Vim.
 I wanted to apply the idea to the entire system. It turned out better than I thought. Now I use it for everything, checking out emails in Mail, browsing files in Finder,
 going through lists in Slack, etc.
 
