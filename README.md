@@ -18,8 +18,6 @@ going through lists in Slack, etc.
 
 The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.
 
-![Karabiner key mapping]({{ site.url }}/assets/images/karabiner-setting.jpg)
-
 After you map it the way like I do, the beautiful part happens:
 
 `control` + `h` + `j` + `k` + `l`: `left` `down` `up` `right`.
