@@ -20,9 +20,9 @@ Same author as Karabiner, <a href="https://github.com/tekezo/Seil" target="_blan
 
 ### Mapping `hjkl` with `control` as `arrow` keys
 
-I started to use Vim last year. I like model editing and the idea of mouse-less. `hjkl` is one of the most beautiful inventions in Vim.
-I wanted to apply the idea to the entire system. It turned out better than I thought. Now I use it for everything, checking out emails in Mail, browsing files in Finder,
-going through lists in Slack, etc.
+I started to use Vim last year. I like model editing and the idea of mouse-less in development. `hjkl` is one of the most beautiful inventions in Vim, it makes development fun and productive. I wanted to apply the idea to the entire system. It turned out better than I thought.
+
+As I mentioned before, `control` + `n` and `control` + `p` work as same as `down` and `up` a lot of times, but not all the times. Another key difference is that `arrow` keys repeat, but `contorl` + `n` and `control` + `p` don't. That's why I chose to use Karabiner. It helps me to map `arrow` keys with different keys, not using the unoptimized `control` + `n` or `control` + `p`.
 
 After you map it the way like I do, the beautiful part happens:
 
