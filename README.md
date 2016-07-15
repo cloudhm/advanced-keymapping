@@ -49,7 +49,7 @@ After you map it the way like I do, the beautiful part happens:
 or
 
 1. `cmd` + `l`
-2. `cmd` + `n`
+2. `control` + `n`
 3. type the parameter.
 
 Now, you can navigate through lines of code without moving right hand to `arrow` keys.
