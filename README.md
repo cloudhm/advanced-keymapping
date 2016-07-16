@@ -14,7 +14,7 @@ A dream tool for keymapping. <a href="https://pqrs.org/osx/karabiner" target="_b
 
 ### Seil
 
-Same author as Karabiner, <a href="https://github.com/tekezo/Seil" target="_blank">Seil</a> made for `caps lock` key.
+Same author as Karabiner, <a href="https://github.com/tekezo/Seil" target="_blank">Seil</a> made for `caps lock` key. With Seil, you can map `caps lock` key smartly.
 
 ## Ways
 
