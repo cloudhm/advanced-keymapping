@@ -8,6 +8,16 @@ This repo collects useful tools to help you take keybindings to the next level. 
 
 An excellent Vim Emulator for your browser. <a href="https://github.com/1995eaton/chromium-vim" target="_blank">C-Vim</a> is a must have if you use Vim, it comes with tons keybindings to reinforce the keyboard golden rule to keep your hands just on the home row of keyboards. Ambitiously, you can make your own `.cvimrc` for C-Vim.
 
+Following is a couple of keybindings that I use everyday.
+
+`gi`: goes to the first input of a page.
+
+`f` and `F`: show marks on links, hit the marks open the page without using trackpad, cap case to open in tabs.
+
+`H` and `L`: previous and next page.
+
+`<` and `>`: Chrome tab movement.
+
 ### Karabiner
 
 A dream tool for keymapping. <a href="https://pqrs.org/osx/karabiner" target="_blank">Karabiner</a> is the most powerful key mapping tool on this planet. It's capable of doing all sorts of crazy key mappings. It doesn't matter if you use Vim or Emacs, the options are there, ready for you. Unlike Windows, on macOS number keys and letter keys don't repeat themselves, this may make cursor movement clumsy. From my experience, Karabiner is the only tool I have tried so far is capable of solving this problem.
