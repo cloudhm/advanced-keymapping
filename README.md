@@ -18,6 +18,8 @@ Following is a couple of keybindings that I use everyday.
 
 `<` and `>`: Chrome tab movement.
 
+For some websites like Jira and Google Inbox, there are already built in shortcuts, with C-Vim you can total whitelist them to keep the old shortcuts you like.
+
 ### Karabiner
 
 A dream tool for keymapping. <a href="https://pqrs.org/osx/karabiner" target="_blank">Karabiner</a> is the most powerful key mapping tool on this planet. It's capable of doing all sorts of crazy key mappings. It doesn't matter if you use Vim or Emacs, the options are there, ready for you. Unlike Windows, on macOS number keys and letter keys don't repeat themselves, this may make cursor movement clumsy. From my experience, Karabiner is the only tool I have tried so far is capable of solving this problem.
@@ -26,9 +28,8 @@ A dream tool for keymapping. <a href="https://pqrs.org/osx/karabiner" target="_b
 
 Same author as Karabiner, <a href="https://github.com/tekezo/Seil" target="_blank">Seil</a> made for `caps lock` key. With Seil, you can map `caps lock` key smartly.
 
-## Ways
 
-### Mapping `hjkl` with `control` as `arrow` keys
+## Mapping `hjkl` with `control` as `arrow` keys
 
 I started to use Vim last year. I like model editing and the idea of mouse-less in development. `hjkl` is one of the most beautiful inventions in Vim, it makes development fun and productive. I wanted to apply the idea to the entire system. It turned out better than I thought.
 
