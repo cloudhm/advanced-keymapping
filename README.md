@@ -22,7 +22,7 @@ Following is a couple of keybindings that I use everyday.
 
 `G`: scroll to the bottom of the page.
 
-For some websites like Jira and Google Inbox, there are already built in shortcuts, with C-Vim you can total whitelist them to keep the old shortcuts you like.
+For some websites like Jira and Google Inbox, there are already built in shortcuts, with C-Vim you can whitelist them to keep the old shortcuts you like.
 
 ### Karabiner
 
