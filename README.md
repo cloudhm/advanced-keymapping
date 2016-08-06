@@ -18,6 +18,10 @@ Following is a couple of keybindings that I use everyday.
 
 `<` and `>`: Chrome tab movement.
 
+`gg`: scroll to the top of the page.
+
+`G`: scroll to the bottom of the page.
+
 For some websites like Jira and Google Inbox, there are already built in shortcuts, with C-Vim you can total whitelist them to keep the old shortcuts you like.
 
 ### Karabiner
